@@ -1,0 +1,19 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/House Classification/*
+!/House Classification/task/
+/House Classification/task/*
+!/House Classification/task/solution.py
+!/House Classification/task/encode.py
+!/House Classification/task/datasets.py
+!/House Classification/task/provide_data.py
